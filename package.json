@@ -1,0 +1,39 @@
+{
+  "name": "@stanmao/ui-package",
+  "version": "1.0.0",
+  "description": "This package is for ui components",
+  "type": "module",
+  "main": "lib/index.cjs",
+  "files": [
+    "lib"
+  ],
+  "exports": {
+    "import": {
+      "default": "./lib/index.esm.js",
+      "types": "./lib/index.d.ts"
+    },
+    "require": {
+      "default": "./lib/index.cjs",
+      "types": "./lib/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonytonitone6/ui-package.git"
+  },
+  "author": "stan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonytonitone6/ui-package/issues"
+  },
+  "homepage": "https://github.com/tonytonitone6/ui-package#readme",
+  "devDependencies": {
+    "rollup": "^4.17.2",
+    "rollup-plugin-delete": "^2.0.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^5.4.5"
+  }
+}
