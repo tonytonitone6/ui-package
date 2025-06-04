@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "declarationDir": "lib/types",
+    "declarationDir": "lib",
     "target": "ES2015",
-    "moduleResolution": "node",
+    "moduleResolution": "node"
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "lib"]
