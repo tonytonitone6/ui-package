@@ -1,5 +1,15 @@
 # @stanmao/ui-package
 
+## 1.2.0
+
+### Minor Changes
+
+- dbce0fa: Created might greeting feature
+
+### Patch Changes
+
+- 851668e: Fixing the afternoon greeting text
+
 ## 1.1.0
 
 ### Minor Changes
