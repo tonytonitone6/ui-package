@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - prelease
 
 concurrency: ${{github.workflows}}-${{github.ref}}
 
