@@ -4,5 +4,7 @@
   "initialVersions": {
     "@stanmao/ui-package": "1.2.0"
   },
-  "changesets": []
+  "changesets": [
+    "mighty-clocks-yell"
+  ]
 }
