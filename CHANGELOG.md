@@ -1,5 +1,11 @@
 # @stanmao/ui-package
 
+## 1.2.1
+
+### Patch Changes
+
+- 97df6dd: Night greet changed
+
 ## 1.2.0
 
 ### Minor Changes
