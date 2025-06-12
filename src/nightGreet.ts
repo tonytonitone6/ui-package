@@ -1,5 +1,5 @@
 /** @format */
 
 export const nightGreet = (name: string) => {
-	return `Good night ${name}!`;
+	return `Good night and have the sweetest dreams ${name}!`;
 };
