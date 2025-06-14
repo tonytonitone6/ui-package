@@ -1,8 +1,8 @@
 {
-  "mode": "pre",
-  "tag": "alpha",
+  "changesets": [],
   "initialVersions": {
     "@stanmao/ui-package": "1.2.0"
   },
-  "changesets": []
+  "mode": "pre",
+  "tag": "beta"
 }
