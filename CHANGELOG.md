@@ -1,5 +1,11 @@
 # @stanmao/ui-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 0614a40: Created a monarch cats morning greet
+
 ## 1.2.0
 
 ### Minor Changes
