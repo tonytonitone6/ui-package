@@ -1,5 +1,8 @@
 {
-  "changesets": [],
+  "changesets": [
+    "curvy-queens-study",
+    "mighty-clocks-yell"
+  ],
   "initialVersions": {
     "@stanmao/ui-package": "1.2.0"
   },
