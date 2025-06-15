@@ -1,9 +1,11 @@
 {
-  "mode": "pre",
-  "tag": "alpha",
+  "changesets": [],
   "initialVersions": {
     "@stanmao/ui-package": "1.2.0"
   },
+  "mode": "pre",
+  "tag": "beta"
+}
   "changesets": [
     "mighty-clocks-yell"
   ]
