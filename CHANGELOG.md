@@ -1,5 +1,12 @@
 # @stanmao/ui-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- d254069: Added Grumpy to monarch cats
+- 0614a40: Created a monarch cats morning greet
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
