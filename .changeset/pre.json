@@ -6,6 +6,6 @@
   "initialVersions": {
     "@stanmao/ui-package": "1.2.0"
   },
-  "mode": "pre",
+  "mode": "exit",
   "tag": "beta"
 }
